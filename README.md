@@ -29,3 +29,9 @@ Redis可以将数据复制到任意数量的从服务器。
 操作都是原子性：所有Redis操作是原子的，这保证了如果两个客户端同时访问的Redis服务器将获得更新后的值。
 多功能实用工具：Redis是一个多实用的工具，可以在多个用例如缓存，消息，队列使用(Redis原生支持发布/订阅)，任何短暂的数据，应用程序，如Web应用程序会话，网页命中计数等。
 ```
+
+## Redis主从复制的实现
+
+##  Redis Sentinel;Redis Sentinel配置;redis集群;redis故障转移
+
+http://blog.yangcvo.me/categories/redis/
