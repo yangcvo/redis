@@ -34,4 +34,4 @@ Redis可以将数据复制到任意数量的从服务器。
 
 ##  Redis Sentinel;Redis Sentinel配置;redis集群;redis故障转移
 
-http://blog.yangcvo.me/categories/redis/
+http://blog.yangcvo.me/categories/redis/ 
